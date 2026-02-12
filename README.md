@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nur 👋
 
-<!--
-**elekberovanr/elekberovanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive, and scalable web applications.  
+I enjoy turning complex ideas into clean and user-friendly interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Frontend Developer (React)
+- Passionate about UI/UX and real-world projects
+- Building web applications, admin dashboards, and startup products
+
+---
+
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Tailwind / CSS Modules
+- Node.js
+- REST APIs
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+- **HTH - Hand To Hand** – Modern management panel with responsive UI  
+- **Portfolio** – Personal portfolio showcasing my projects
+
+---
+
+## 📫 Contact Me
+- LinkedIn: www.linkedin.com/in/nur-alakbarova-4bb324347
+- Email: nurelekberova2005@gmail.com
+
+---
+
+⭐ Always open to collaboration and new opportunities.
