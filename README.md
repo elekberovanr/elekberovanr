@@ -24,7 +24,7 @@ I enjoy turning complex ideas into clean and user-friendly interfaces.
 ---
 
 ## 📌 Featured Projects
-- **HTH - Hand To Hand** – Modern management panel with responsive UI  
+- **HTH - Hand To Hand** – Second hand platform with responsive UI  
 - **Portfolio** – Personal portfolio showcasing my projects
 
 ---
